@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -28,10 +27,6 @@
 - ✔️ Detekcja zwycięzcy lub remisu
 - ✔️ Możliwość resetu planszy po zakończeniu rundy
 - ✔️ Prosty, czytelny kod 
-
-
-## Screenshots
-![tekst alternatywny](
 
 ## Setup
 ### Wymagania:
