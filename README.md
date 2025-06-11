@@ -1,4 +1,4 @@
-# 🎮 Kółko i Krzyżyk – Gra w WinForms (Projekt szkolny)
+# 🎮 Kółko i Krzyżyk – Gra w WinForms (Projekt edukacyjny)
 > Prosty projekt gry "Kółko i Krzyżyk" (Tic Tac Toe) stworzony w języku C# z wykorzystaniem Windows Forms w środowisku Visual Studio.
 
 ## Spis Treści
